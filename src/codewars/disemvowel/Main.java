@@ -13,8 +13,6 @@ For example, the string "This website is for losers LOL!" would become "Ths wbst
 
 Note: for this kata y isn't considered a vowel.
 */
-
-
 public class Main {
     public static void main(String[] args) {
         System.out.println(disemvowel("This website is for losers LOL!"));
